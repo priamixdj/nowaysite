@@ -1,0 +1,14 @@
+:root{
+    --main-color-black: rgb(0, 0, 0);
+    --main-color-gray: rgb(24, 24, 24);
+    --main-color-red: rgb(255, 0, 0);
+    --main-text-color-white: white;
+    --main-font: 'Oswald', sans-serif;
+}
+
+html{
+    scroll-behavior: smooth;
+}
+
+
+
